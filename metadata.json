@@ -1,7 +1,7 @@
 {
 	"name":"Target Dental",
-	"thumbnail":"pearl.png",
-	"screenshot":"pearl.png",
+	"thumbnail":"target-dental.png",
+	"screenshot":"target-dental.png",
 	"templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
