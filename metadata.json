@@ -1,7 +1,7 @@
 {
-	"name":"Pearl",
-	"thumbnail":"pearl.png",
-	"screenshot":"pearl.png",
+	"name":"Target Dental",
+	"thumbnail":"target-dental.png",
+	"screenshot":"target-dental.png",
 	"templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
@@ -9,12 +9,15 @@
     "es": ["profesional", "limpio", "corporativo", "moderno", "colorido", "estilo", "fresco", "estudio", "música", "comunicacion", "joven", "flexible"],
     "br": ["profissional", "limpo", "corporativo", "moderno", "colorido", "estilo", "revigorado", "estúdio", "música", "mídia", "jovem", "flexível"]
     },
+    "images":[
+        "images/feature-bg.jpg"
+    ],
     "colorSwatches":
     {
         "Swatch 1": {
             "color1":"#ffffff",
             "color2":"#72d0eb",
-            "color3":"#83c028",
+            "color3":"#66C498",
             "color4":"#2f353e",
             "color5":"#b4bec7",
             "color6":"#434f5b",
@@ -23,7 +26,7 @@
         "Swatch 2": {
             "color1":"#ffffff",
             "color2":"#fad247",
-            "color3":"#ff563e",
+            "color3":"#F0C673",
             "color4":"#1b3942",
             "color5":"#b4bec7",
             "color6":"#434f5b",
@@ -32,7 +35,7 @@
         "Swatch 3": {
             "color1":"#ffffff",
             "color2":"#71d36b",
-            "color3":"#fa9245",
+            "color3":"#A4C683",
             "color4":"#272a27",
             "color5":"#b4bec7",
             "color6":"#454f45",
@@ -41,7 +44,7 @@
         "Swatch 4": {
             "color1":"#ffffff",
             "color2":"#f67f6e",
-            "color3":"#84d1cb",
+            "color3":"#D45054",
             "color4":"#3a3838",
             "color5":"#b4bec7",
             "color6":"#3a3838",
@@ -50,7 +53,7 @@
         "Swatch 5": {
             "color1":"#ffffff",
             "color2":"#919aa2",
-            "color3":"#70acde",
+            "color3":"#85BB9F",
             "color4":"#2f353e",
             "color5":"#b4bec7",
             "color6":"#434f5b",
@@ -60,7 +63,7 @@
     "fontSwatch": {
        "title": "Raleway",
         "font1": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Arvo\", Georgia, serif",
             "font-size": "30px",
             "font-weight": "500",
             "line-height": "36px",
@@ -68,7 +71,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Arvo\", Georgia, serif",
             "font-size": "24px",
             "font-weight": "inherit",
             "line-height": "36px",
@@ -121,7 +124,7 @@
             "background-color-hover": "@color-swatch2"
         },
         "font8": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Arvo\", Georgia, serif",
             "font-size": "40px",
             "font-weight": "500",
             "line-height": "50px",
@@ -129,7 +132,7 @@
             "letter-spacing": "inherit"
         },
         "font9": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Arvo\", Georgia, serif",
             "font-size": "24px",
             "font-weight": "500",
             "line-height": "36px",
@@ -137,7 +140,7 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Arvo\", Georgia, serif",
             "font-size": "26px",
             "font-weight": "500",
             "line-height": "36px",
